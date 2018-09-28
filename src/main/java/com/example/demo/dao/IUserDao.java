@@ -10,6 +10,6 @@ import java.util.List;
 @Mapper
 public interface IUserDao {
     //查询所有用户信息
-
+    //
     List<User> selectAll();
 }
